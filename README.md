@@ -1,5 +1,15 @@
 ## Hi there 👋
-![Codewars](https://www.codewars.com/users/Nomad404/badges/micro)
+![Codewars](https://www.codewars.com/users/Nomad404/badges/small)
+
+🌱 I’m currently studying Quantum Engineering with the focus on Quantum computing and Quantum communication technologies.
+
+## Technical Skills
+- **Programming Languages**: C, Python, Golang, Solidity, RUST, SQL
+- **Tools and Technologies**: MATLAB & Simulink, Linux & Bash, AWS Cloud Services
+- **Front-end Development**: React, TypeScript
+
+My linkedin profile:
+- [LinkedIn](https://www.linkedin.com/in/amir-sasanfar)
 
 <!--
 **Amir-rep/Amir-rep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
