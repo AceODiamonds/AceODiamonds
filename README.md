@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Codewars](https://www.codewars.com/users/Nomad404/badges/small)
+![Codewars](https://www.codewars.com/users/AceODiamonds/badges/small)
 
 🌱 I’m currently pursuing a master's degree in Quantum Engineering with the focus on Quantum computing and Quantum communication technologies.
 
