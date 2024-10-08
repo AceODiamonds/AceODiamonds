@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Codewars](https://www.codewars.com/users/Nomad404/badges/small)
 
-🌱 I’m currently studying Quantum Engineering with the focus on Quantum computing and Quantum communication technologies.
+🌱 I’m currently pursuing a master's degree in Quantum Engineering with the focus on Quantum computing and Quantum communication technologies.
 
 ## Technical Skills
 - **Programming Languages**: C, Python, Golang, Solidity, RUST, SQL
