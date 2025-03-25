@@ -12,6 +12,7 @@ My linkedin profile:
 - [LinkedIn](https://www.linkedin.com/in/amir-sasanfar)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AceODiamonds&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceODiamonds&layout=compact&theme=dark)
 
 <!--
 **Amir-rep/Amir-rep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
