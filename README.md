@@ -12,7 +12,6 @@ My linkedin profile:
 - [LinkedIn](https://www.linkedin.com/in/amir-sasanfar)
 
 ## 📈 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AceODiamonds&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceODiamonds&layout=compact&theme=radical)
 
 <!--
