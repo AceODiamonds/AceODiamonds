@@ -1,9 +1,10 @@
 ## Hi there 👋
 ![Codewars](https://www.codewars.com/users/AceODiamonds/badges/small)
 
-🌱 I’m currently pursuing a master's degree in Quantum Engineering with the focus on Quantum computing and Quantum communication technologies.
+🌱 I’m currently pursuing a master's degree in Quantum Engineering with focus on Quantum computing and Quantum communication technologies.
 
 ## Technical Skills
+- **Quantum computing and communication**: Qiskit, Pennylane and Netsquid frameworks
 - **Programming Languages**: C, Python, Golang, Solidity, RUST, SQL
 - **Tools and Technologies**: MATLAB & Simulink, Linux & Bash, AWS Cloud Services
 - **Front-end Development**: React, TypeScript
