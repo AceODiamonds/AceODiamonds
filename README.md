@@ -9,8 +9,6 @@
 - **Tools and Technologies**: MATLAB & Simulink, Linux & Bash, AWS Cloud Services
 - **Front-end Development**: React, TypeScript
 
-My linkedin profile:
-- [LinkedIn](https://www.linkedin.com/in/amir-sasanfar)
 
 ## 📈 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceODiamonds&layout=compact&theme=radical)
