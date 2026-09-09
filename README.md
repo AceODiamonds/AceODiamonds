@@ -5,7 +5,7 @@
 
 ## Technical Skills
 - **Quantum computing and communication**: Qiskit, Pennylane and Netsquid frameworks
-- **Programming Languages**: C, Python, Golang, Solidity, RUST, SQL
+- **Programming Languages**: C, Python, Golang, Solidity, SQL
 - **Tools and Technologies**: MATLAB & Simulink, Linux & Bash, AWS Cloud Services
 - **Front-end Development**: React, TypeScript
 
